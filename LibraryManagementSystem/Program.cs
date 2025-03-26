@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using RetailManagementSystem.Data;
-using RetailManagementSystem.Interfaces;
-using RetailManagementSystem.Repositories;
+using LibraryManagementSystem.Data;
+using LibraryManagementSystem.Interfaces;
+using LibraryManagementSystem.Repositories;
  
 var builder = WebApplication.CreateBuilder(args);
  
